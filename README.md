@@ -2,6 +2,11 @@
 
 textbased plantuml previewer for Neovim.
 
+# Demo
+
+[Screencast from 2022年11月23日 00時02分38秒.webm](https://user-images.githubusercontent.com/118619725/203348074-6e62de3c-dd83-4224-bd60-561960a1fd97.webm)
+
+
 # Quick Start
 
 add below setting in your `init.lua`.
